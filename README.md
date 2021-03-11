@@ -18,7 +18,7 @@ My advantages are that I am good at layout, adaptive and cross-browser, I use an
 # Projects:
 
 ### Taxi ordering 
-Application for ordering a taxi as part of the course on `React` / `Redux` / `Saga` (test@test.com/123123) - https://timrawork.github.io/loft-taxi
+Application for ordering a taxi as part of the course on `React` / `Redux` / `Saga` (test@test.com/123123) - http://timra.ru/portfolio/react-redux-loft-taxi
 
 ### Service for planning a trip
 A service for planning a trip itinerary, calculating the cost of travel and obtaining information about attractions as part of the `OOP` (`MVC`) course in pure `js` - https://timra.ru/portfolio/bigTrip/
