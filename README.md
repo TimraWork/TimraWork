@@ -1,12 +1,13 @@
-#### My name is Elmira. I am from Uzbekistan. I am junior React/Redux frontend developer.
+#### My name is Elmira. I am from Uzbekistan. I am React/Redux/Typescript frontend developer.
 
-I have three JS / OOP (MVC) / REDUX training certificates from renowned HTMLACADEMY and LOFTSCHOOL courses
+I have three JS / OOP (MVC) / REDUX training certificates from HTMLACADEMY and LOFTSCHOOL courses.
+
 I am developing spa, applications / services in React / Redux / Typescript.
-The advantage is that I am good at layout, adaptive and cross-browser, I use animations everywhere - https://timra.ru/#/ru/works
+My advantages are that I am good at layout, adaptive and cross-browser, I use animations everywhere -- https://timra.ru/#/ru/works
 
-- 🔭 I’m currently working on RS school React Course 
-- 🌱 I’m currently learning Typescript 
-- 🤔 I’m looking for help with Typescript 
+- 🔭 Now I am doing a project at React/Redux/Typescript with guys from different countries) 
+
+- 🌱 I’m currently learning Typescript
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TimraWork&hide=stars,issues,contribs&show_icons=true&theme=slateorange&count_private=true) 
 
