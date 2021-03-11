@@ -27,7 +27,7 @@ A service for planning a trip itinerary, calculating the cost of travel and obta
 Service for posting advertisements for renting real estate in the course frame JS interfaces also in pure `js` - https://timra.ru/portfolio/keksobooking/
 
 ### React game
-The game in `Typescript`, `Hooks`, `React`  - https://timrawork.github.io/react-game/#/
+The game in `Typescript`, `Hooks`, `React`  - https://timra.ru/react-game/
 
 ### Own website
 The first experience with the framework `Vue.js` - https://timra.ru/
